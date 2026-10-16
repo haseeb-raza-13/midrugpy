@@ -1,8 +1,8 @@
-# QuantumDrug
+# MiDrugPy
 
 **An open-source Python framework for AI-assisted drug discovery, with optional quantum-computing research capabilities.**
 
-QuantumDrug aims to bring molecular data preparation, chemical property calculation, and predictive modeling into one reproducible workflow. It is intended for researchers, students, and contributors working in cheminformatics, bioinformatics, and molecular machine learning.
+MiDrugPy aims to bring molecular data preparation, chemical property calculation, and predictive modeling into one reproducible workflow. It is intended for researchers, students, and contributors working in cheminformatics, bioinformatics, and molecular machine learning.
 
 The project follows a classical-first approach: build reliable tools for small-molecule research, then evaluate whether quantum and hybrid methods offer measurable benefits.
 
